@@ -41,7 +41,7 @@ DiagnoML——实体肿瘤生物标志物和预测平台是一个专为RNA-seq�
 1. **克隆或下载项目**
 
    ```bash
-   git clone https://github.com/yourusername/rna_seq_app.git
+   git clone https://github.com/mrg223344/DiagnoML/DiagnoML.git
    cd rna_seq_app
    ```
 
